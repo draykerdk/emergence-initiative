@@ -1,1 +1,1 @@
-# emergence-initiative
+# Emergence Initiative
