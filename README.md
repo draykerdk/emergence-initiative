@@ -1,4 +1,31 @@
-# Emergence Initiative
-We are in the process of opening, soon we will find ways to spore our papers, we are open to sujestoes.
+The Emergence Initiative is the open edge of Drayker: where issues, papers and proposals that do not belong to the DFMP, DFMPP or MetaDFM models are handled while their real home is still unclear.
 
-Here the issues that do not involve the DFMP, DFMPP and MetaDFM models will be managed temporarily.
+We are open to suggestions about how it should work. That is not a placeholder sentence — this layer is deliberately the least defined part of the organization.
+
+## Why an organization needs a permeable border
+
+Not every useful contribution arrives shaped like a core protocol. An idea forced into a category before anyone understands it usually loses whatever made it worth having. So there is one place where "I do not know where this belongs" is a complete and acceptable answer.
+
+Work is documented and discussed here, and routed toward [DFM](https://dfmp.drayker.org), [DAF](https://daf.drayker.org), [Dk](https://dk.drayker.org) or another project once its relation to the ecosystem becomes clear.
+
+## What belongs here
+
+- Papers and proposals outside the core models.
+- Contributions whose home is not obvious yet.
+- Suggestions about the initiative itself, including how papers should be published from it.
+
+## What does not
+
+Anything that clearly belongs to an existing project — open it there, so the discussion sits next to the material it concerns.
+
+## State of this documentation
+
+Minimal, and honestly so: an open edge that over-specifies itself stops being an open edge. What is missing is a written route — how something moves from here into a project — and that would be worth writing.
+
+## Contributing
+
+Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/#org/fn).
+
+---
+
+Drayker is a volunteer, non-profit organization; resources are governed by the [DAF](https://daf.drayker.org). Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
