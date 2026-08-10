@@ -1,0 +1,32 @@
+schema_version: 1
+component:
+  id: emergence-initiative
+  name: Emergence Initiative
+  layer: ORGANIZATION
+  artifact_type: community-entrypoint
+  problem: Provide an open route for useful proposals whose place in the Drayker ecosystem is not yet clear.
+  scope:
+    - Public discussion of papers and proposals without an obvious repository.
+    - Development of a transparent route into established components.
+  non_scope:
+    - A substitute for a component-specific contribution route.
+    - An operational routing protocol with guaranteed outcomes.
+  dependencies:
+    - general-forum
+    - dfmp
+  implementation:
+    level: none
+    scope: The open-edge concept is documented, while its routing procedure remains undefined.
+    evidence:
+      - type: document
+        ref: README.md
+  risks:
+    - Proposals can stagnate when the onward route is not explicit.
+    - Over-specification could undermine the deliberately permeable boundary.
+  contributions:
+    availability: open
+    entrypoint: https://github.com/draykerdk/emergence-initiative/issues
+  source_of_truth:
+    repository: https://github.com/draykerdk/emergence-initiative
+    path: README.md
+  last_reviewed: "2026-08-10"
