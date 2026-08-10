@@ -28,4 +28,4 @@ Open an issue. Issues small enough for one person to finish carry the `open-func
 
 ---
 
-Drayker is a volunteer, non-profit organization; resources are governed by the [DAF](https://daf.drayker.org). Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Drayker is an open, primarily volunteer R&D initiative. [DAF](https://daf.drayker.org) is proposed governance architecture; current founding governance is documented in [`draykerdk/.github`](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md). Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
