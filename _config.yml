@@ -33,3 +33,4 @@ dk_body: "plain"
 dk_rings: "mono"
 dk_wedge: "none"
 dk_accent: "#FF5500"
+dk_sphere: "void"  # the permeable edge, before anything has a shape
