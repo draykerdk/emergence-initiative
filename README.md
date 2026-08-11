@@ -2,6 +2,12 @@ The Emergence Initiative is the open edge of Drayker: where issues, papers and p
 
 We are open to suggestions about how it should work. That is not a placeholder sentence — this layer is deliberately the least defined part of the organization.
 
+## Why this exists
+
+Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. The Emergence Initiative is the open edge, where someone who has just arrived can start being useful.
+
+The argument in full is on the [manifesto](https://drayker.org/manifesto/); the [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
+
 ## Why an organization needs a permeable border
 
 Not every useful contribution arrives shaped like a core protocol. An idea forced into a category before anyone understands it usually loses whatever made it worth having. So there is one place where "I do not know where this belongs" is a complete and acceptable answer.
@@ -24,7 +30,7 @@ Minimal, and honestly so: an open edge that over-specifies itself stops being an
 
 ## Contributing
 
-Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/#org/fn).
+Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/fn/).
 
 ---
 
