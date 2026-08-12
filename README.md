@@ -24,6 +24,12 @@ Work is documented and discussed here, and routed toward [DFM](https://dfmp.dray
 
 Anything that clearly belongs to an existing project. Open it there, so the discussion sits next to the material it concerns.
 
+## How it fits the whole
+
+The permeable border of the ecosystem — where work that has not found its home yet can still begin.
+
+Drayker's main projects are described in [Dknowledge](https://dknowledge.drayker.org) and pass through [DFMP](https://dfmp.drayker.org). Emergence is the counterpart: proposals and contributions outside the core models are welcomed here so that nothing valid is lost for lack of a category. When a contribution finds its real home, it moves to it — a project on the [projects platform](https://pap.drayker.org), a paper into the knowledge base, a discussion into the [forum](https://forum.drayker.org). It is the same principle as the transition layer of the ecosystem: build the real thing with what exists today, on the way to the platform of its own.
+
 ## State of this documentation
 
 Minimal, and honestly so: an open edge that over-specifies itself stops being an open edge. What is missing is a written route, how something moves from here into a project, and that would be worth writing.
