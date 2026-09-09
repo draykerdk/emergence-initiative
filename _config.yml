@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
 
 title: "Emergence Initiative"
-description: "Where papers, proposals and issues outside the core Drayker models are handled."
+description: "An entry point for ideas whose place is still emerging. The Emergence Initiative receives questions, studies and proposals that do not yet fit an established component. It helps an unfamiliar contribution find the context in which it can be examined."
 
 dk_kicker: "Open edge"
 dk_subdomain: "ei.drayker.org"
