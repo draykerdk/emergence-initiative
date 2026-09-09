@@ -1,10 +1,18 @@
-The Emergence Initiative is the open edge of Drayker: where issues, papers and proposals that do not belong to the DFMP, DFMPP or MetaDFM models are handled while their real home is still unclear.
+> An entry point for ideas whose place is still emerging.
 
-We are open to suggestions about how it should work. That is not a placeholder sentence. This layer is deliberately the least defined part of the organization.
+The Emergence Initiative receives questions, studies and proposals that do not yet fit an established component. It helps an unfamiliar contribution find the context in which it can be examined.
+
+An initial discussion can clarify the question, identify related work and establish whether it belongs in an existing proposal path or needs further exploration.
+
+A permeable entry point helps Drayker learn from people and situations outside its current structure.
+
+## A practical example
+
+Someone could bring an observation about a local problem, receive help connecting it to existing work and develop a first bounded proposal. This is an illustration of the proposed design.
 
 ## Why this exists
 
-Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. The Emergence Initiative is the open edge, where someone who has just arrived can start being useful.
+The Emergence Initiative is the open edge, where someone who has just arrived can start being useful.
 
 The argument in full is on the [manifesto](https://drayker.org/manifesto/). The [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
 
