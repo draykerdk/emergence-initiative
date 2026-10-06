@@ -16,7 +16,7 @@ The Emergence Initiative is the open edge, where someone who has just arrived ca
 
 The argument in full is on the [manifesto](https://drayker.org/manifesto/). The [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
 
-## Why an organization needs a permeable border
+## Why a supersystem needs a permeable border
 
 Not every useful contribution arrives shaped like a core protocol. An idea forced into a category before anyone understands it usually loses whatever made it worth having. So there is one place where "I do not know where this belongs" is a complete and acceptable answer.
 
@@ -48,4 +48,4 @@ Open an issue. Issues small enough for one person to finish carry the `open-func
 
 ---
 
-Drayker is an open, primarily volunteer R&D initiative. [DAF](https://daf.drayker.org) is proposed governance architecture. Current founding governance is documented in [`draykerdk/.github`](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md). Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Drayker is a supersystem in its founding R&D phase, open and primarily volunteer. [DAF](https://daf.drayker.org) is proposed governance architecture. Current founding governance is documented in [`draykerdk/.github`](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md). Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
