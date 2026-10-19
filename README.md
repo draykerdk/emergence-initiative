@@ -1,3 +1,5 @@
+# Emergence Initiative
+
 > An entry point for ideas whose place is still emerging.
 
 The Emergence Initiative receives questions, studies and proposals that do not yet fit an established component. It helps an unfamiliar contribution find the context in which it can be examined.
@@ -38,9 +40,13 @@ The permeable border of the ecosystem — where work that has not found its home
 
 Drayker's main projects are described in [Dknowledge](https://dknowledge.drayker.org) and pass through [DFMP](https://dfmp.drayker.org). Emergence is the counterpart: proposals and contributions outside the core models are welcomed here so that nothing valid is lost for lack of a category. When a contribution finds its real home, it moves to it — a project on the [projects platform](https://pap.drayker.org), a paper into the knowledge base, a discussion into the [forum](https://forum.drayker.org). It is the same principle as the transition layer of the ecosystem: build the real thing with what exists today, on the way to the platform of its own.
 
+## The route out
+
+A topic is discussed here or on the [forum](https://forum.drayker.org) until its place becomes clear. It then gets an owner: the repository it belongs to, found through the [routing table of the General Forum](https://forum.drayker.org/routing/), or [DFMPProject](https://dfmpproject.drayker.org) when it becomes a project of its own. The thread is transferred to the owner with a link, so the discussion that led there stays readable from both sides.
+
 ## State of this documentation
 
-Minimal, and honestly so: an open edge that over-specifies itself stops being an open edge. What is missing is a written route, how something moves from here into a project, and that would be worth writing.
+Minimal, and honestly so: an open edge that over-specifies itself stops being an open edge. The route out above is written in its minimal form.
 
 ## Contributing
 
