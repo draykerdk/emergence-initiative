@@ -7,7 +7,7 @@ component:
   problem: Provide an open route for useful proposals whose place in the Drayker ecosystem is not yet clear.
   scope:
     - Public discussion of papers and proposals without an obvious repository.
-    - Development of a transparent route into established components.
+    - A minimal, transparent route out, to the owning repository or DFMPProject, through the routing of the General Forum.
   non_scope:
     - A substitute for a component-specific contribution route.
     - An operational routing protocol with guaranteed outcomes.
@@ -16,7 +16,7 @@ component:
     - dfmp
   implementation:
     level: none
-    scope: The open-edge concept is documented, while its routing procedure remains undefined.
+    scope: The open-edge concept and its minimal route out are documented; nothing beyond the documentation operates.
     evidence:
       - type: document
         ref: README.md
@@ -29,4 +29,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/emergence-initiative
     path: README.md
-  last_reviewed: "2026-10-07"
+  last_reviewed: "2026-10-19"
