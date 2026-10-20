@@ -7,6 +7,8 @@ component:
   problem: Provide an open route for useful proposals whose place in the Drayker ecosystem is not yet clear.
   scope:
     - Public discussion of papers and proposals without an obvious repository.
+    - Initiatives with their own methodology rather than DFM, including members' campaigns and content, needing no permission or protocol, only alignment with Drayker's values, and propagated in the open, never by manipulation.
+    - A place to show an initiative and find people, ideas, help and support for it.
     - A minimal, transparent route out, to the owning repository or DFMPProject, through the routing of the General Forum.
   non_scope:
     - A substitute for a component-specific contribution route.

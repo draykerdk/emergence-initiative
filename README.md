@@ -28,6 +28,8 @@ Work is documented and discussed here, and routed toward [DFM](https://dfmp.dray
 
 - Papers and proposals outside the core models.
 - Contributions whose home is not obvious yet.
+- Initiatives that follow their own methodology rather than DFM, including campaigns and content made by members. No permission or protocol is needed, only alignment with Drayker's values, and propagation follows the same rule as everything else: in the open, never by manipulation.
+- A place to show an initiative and find people, ideas, help and support for it.
 - Suggestions about the initiative itself, including how papers should be published from it.
 
 ## What does not
