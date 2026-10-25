@@ -58,4 +58,4 @@ Open an issue. Issues small enough for one person to finish carry the `open-func
 
 ---
 
-Drayker is a supersystem in its founding R&D phase, open and primarily volunteer. [DAF](https://daf.drayker.org) is an autonomous federation of autonomous units, a basic and primitive form of PAP, implemented now. Current founding governance is documented in [`draykerdk/.github`](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md). Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Drayker is a supersystem in its founding R&D phase, open and primarily volunteer. [DAF](https://daf.drayker.org) is an autonomous, distributed federation of autonomous units, the groups and organizations of people working on different questions and projects in Drayker, and a basic, primitive form of PAP, implemented now to test its dynamics in the construction itself. Current founding governance is documented in [`draykerdk/.github`](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md). Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
